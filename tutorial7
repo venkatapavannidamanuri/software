@@ -1,0 +1,19 @@
+user stories:
+      The object of the software is to share online resources among faculty and student community.
+      
+  ADMINISTRATOR:
+          The administrator is hold responsible person for smooth running of entire system.
+          The administrator will create a username and password to the other roles of the user by giving all of all the details of user.
+  OFFICER:
+          The official role is to generate reports including the student status course additions and deletions etc.
+  STUDENT :
+          initially the admitted student has to register with his details in the system upon regisTRATION IN the system student can approach for 
+          registration of courses in the current semester.
+   ISSUES:
+          THE STUDENT will register specific  number courses by choosing course and faculty name.
+          the student can take the books from library on loan basis.
+          Hostel authority will verify the details of the student, may approve his/her hostel seat depending on various parameters.
+          Once allotment is done student can view the fee dues.
+          
+          
+          
